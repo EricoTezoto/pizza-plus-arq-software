@@ -11,12 +11,12 @@ O sistema utiliza **quatro padrões principais**:
 
 ---
 
-## 📁 Estrutura do Projeto (planejada)
+## 📁 Estrutura do Projeto
 
 /src/main/
 pizza/ -> Factory Method (modelos de Pizza + fábrica)
 frete/ -> Strategy (cálculo de frete)
-pagamento/ -> Strategy (pagamento) [opcional]
+pagamento/ -> Strategy (pagamento)
 observer/ -> Observer (status do pedido)
 core/ -> Modelos principais (Pedido, Cliente, etc.)
 config/ -> Singleton (config ou gerenciador)
@@ -50,3 +50,8 @@ O arquivo **RESUMO.md** contém:
 ```bash
 javac src/main/App.java
 java src/main/App
+
+
+## 📄 Licença
+
+MIT License.
