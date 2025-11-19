@@ -1,4 +1,4 @@
-package main.pizza;
+package pizza;
 
 public class PizzaFactory {
 
