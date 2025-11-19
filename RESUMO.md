@@ -2,7 +2,6 @@
 ## Base teórica: Refactoring.Guru
 ## Aplicação prática: Sistema PizzaPlus
 ### Érico Conte Tezoto - 23004160
-### Guilherme Mourad -  23010087
 ### Nicolas Keismanas - 23013693
 
 ---
